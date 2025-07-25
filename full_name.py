@@ -22,6 +22,18 @@ print("My moms cooking is the best in the world it's better than restraunt food.
 print("My dads coding can never be compared to any one else he's the best at coding.")
 print("Afsar is the smartest 8th and 9th grader in the world he's crazy smart.")
 print("Amira is the best singer and dancer in the whole world she lights up our house like light.")
+print("y = 0")
+# Say hello to everyone.
+print("Hello Python people!")
+# Say bye to everyone
+print("Bye Python people!")
+print("Afraz")
+print("the progam is using binary knowledge?")
+
+
+
+
+
 
 
 
@@ -45,3 +57,64 @@ print("Amira is the best singer and dancer in the whole world she lights up our 
 
       
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
